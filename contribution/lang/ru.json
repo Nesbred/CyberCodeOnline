@@ -54,7 +54,7 @@
  	 	},
  	 	"mining": {
  	 	 	"name": {
- 	 	 	 	"trans": "криптодобыча",
+ 	 	 	 	"trans": "уровень криптодобычы",
  	 	 	 	"eng": "mining skill"
  	 	 	}
  	 	}
@@ -66,7 +66,7 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Центр]\r\n        Один из самых занятых городов материка, тут ты встретишь самых разных людей со всей планеты.",
+ 	 	 	 	"trans": "[Центр]\r\n        Один из самых оживлённых городов материка, тут ты встретишь самых разных людей со всей планеты.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent, here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
@@ -204,7 +204,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Начни в зоне уровнями от 1 до 10",
+ 	 	 	 	"trans": "Начни с зоны для уровней от 1 до 10",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"toZone": {
@@ -260,7 +260,7 @@
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "Разменный пункт Арасака",
+ 	 	 	 	"trans": "Обменный пункт Арасака",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
@@ -274,7 +274,7 @@
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Если понравилась игра, можете поддержать :)",
+ 	 	 	 	"trans": "Если вам понравилась игра, пожалуйста, можете поддержать :)",
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	}
  	 	},
@@ -342,11 +342,11 @@
  	 	},
  	 	"recycleMachine": {
  	 	 	"name": {
- 	 	 	 	"trans": "Машина для Переаботки",
+ 	 	 	 	"trans": "Автоматический переработчик",
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Полностью автоматизированный переработчик, способный перерабатывать предметы до металлолома",
+ 	 	 	 	"trans": "Полностью автоматизированный переработчик, способный перерабатывать предметы в металлолом",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -358,7 +358,7 @@
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Повысь свой Уровень Печати, не растрачиваясь на металлолом, это поможет увеличить уровень напечатанной тобой экипировки.",
+ 	 	 	 	"trans": "Повысь свой Уровень Печати, не жертвуя металлолома, это поможет увеличить уровень производимой тобой экипировки.",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
@@ -394,7 +394,7 @@
  	 	},
  	 	"reverseMining": {
  	 	 	"name": {
- 	 	 	 	"trans": "криптодобыча",
+ 	 	 	 	"trans": "Инициализировать криптодобычу",
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
@@ -438,7 +438,7 @@
  	 	 	 	"eng": "Gather Clan Resource"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Помощь сборе и управлении необходимыми ресурсами для вашего клана",
+ 	 	 	 	"trans": "Помощь в сборе и управлении необходимыми ресурсами для вашего клана",
  	 	 	 	"eng": "Help gather and manage needed resources for your clan"
  	 	 	}
  	 	},
@@ -1022,11 +1022,11 @@
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Fanny Pack",
+ 	 	 	 	"trans": "Поясная сумка",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Крутой и модный Fanny Pack, подписан легендой, называвшей себя Скала, десятилетия назад.\r\n        увеличивает место инвентаря когда надето.",
+ 	 	 	 	"trans": "Крутая и модная Поясная Сумка, подписана легендой, называвшей себя Скала, десятилетия назад.\r\n        увеличивает место инвентаря когда надето.",
  	 	 	 	"eng": "Cool and fashionable Fanny Pack, signed by a legend called The Rock himself from decades ago.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
@@ -1317,7 +1317,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"bio": {
- 	 	 	 	"trans": "О себе",
+ 	 	 	 	"trans": "Биография",
  	 	 	 	"eng": "Bio"
  	 	 	},
  	 	 	"bioNotFound": {
@@ -1455,19 +1455,19 @@
  	 	"clan": {
  	 	 	"selectDepositAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Пожалуйста введите сколько вы хотите положить",
+ 	 	 	 	 	"trans": "Пожалуйста, введите какую сумму вы хотите внести",
  	 	 	 	 	"eng": "Please enter amount you want to deposit"
  	 	 	 	},
  	 	 	 	"detail": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} БитКоинов будет положено на счёт вашей банды, это необратимо",
+ 	 	 	 	 	"trans": "${amount} БитКоинов будет внесено на счёт вашей банды, это необратимо",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
  	 	 	"deposit": {
- 	 	 	 	"trans": "Положить БитКоины",
+ 	 	 	 	"trans": "Внести БитКоины",
  	 	 	 	"eng": "Deposit Bitcoin"
  	 	 	},
  	 	 	"level": {
@@ -1679,7 +1679,7 @@
  	 	},
  	 	"noPrintableCaches": {
  	 	 	"title": {
- 	 	 	 	"trans": "Чертежи Снаряжения не найден",
+ 	 	 	 	"trans": "Чертежи Снаряжения не найдены",
  	 	 	 	"eng": "Equipment Cache not found"
  	 	 	},
  	 	 	"subTitle": {
@@ -1833,7 +1833,7 @@
  	 	},
  	 	"escape": {
  	 	 	"name": {
- 	 	 	 	"trans": "Побег",
+ 	 	 	 	"trans": "Сбежать",
  	 	 	 	"eng": "Escape"
  	 	 	},
  	 	 	"description": {
@@ -2045,7 +2045,7 @@
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Fanny Pack",
+ 	 	 	 	"trans": "Поясная Сумка",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	}
  	 	},
